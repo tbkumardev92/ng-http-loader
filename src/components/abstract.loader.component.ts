@@ -13,4 +13,5 @@ export abstract class AbstractLoader {
 
     @Input()
     public backgroundColor: string;
+    public color: string;
 }
